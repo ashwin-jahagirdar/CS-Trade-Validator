@@ -7,4 +7,5 @@ Validate Trades - POST http://localhost:8181/validate-trades/
 
 # Pending issues
 Validate the value date against the product type
+
 Value date cannot fall on weekend or non-working day for currency
